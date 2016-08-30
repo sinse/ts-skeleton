@@ -1,0 +1,8 @@
+# compiled output
+/dist
+
+# misc
+/typings
+/node_modules
+/tmp
+

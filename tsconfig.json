@@ -1,0 +1,17 @@
+{
+    "files": [
+        "src/main.ts",
+        "src/greet.ts"
+        ],
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+        ],
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "noLib": false,
+        "module": "commonjs",
+        "outDir": "../dist/",
+        "target": "es5"
+    }
+}

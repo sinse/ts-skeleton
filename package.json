@@ -1,0 +1,14 @@
+{
+  "name": "ts-skeleton",
+  "description": "Typescript skeleton project",
+  "version": "0.0.1",
+  "license": "GNU",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "gulp-util": "^3.0.7"
+  },
+  "dependencies": {
+    "es6-promise": "^3.2.1"
+  }
+}
