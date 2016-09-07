@@ -1,8 +1,8 @@
 {
-  "globalDevDependencies": {
+  "globalDependencies": {
     "node": "registry:dt/node#6.0.0+20160826120425"
   },
-  "devDependencies": {
+  "dependencies": {
     "es6-promise": "registry:npm/es6-promise#3.0.0+20160723033700"
   }
 }
