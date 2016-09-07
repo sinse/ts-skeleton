@@ -16,6 +16,6 @@ Installed as global
 
 # commands
 
-gulp : compile files
-gulp watch : watch files and auto compile when files changed
+* gulp : compile files
+* gulp watch : watch files and auto compile when files changed
 
