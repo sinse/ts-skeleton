@@ -2,7 +2,6 @@
 
 Installed as global 
 
-* nodejs
 * typescript
 * typings
 * gulp-cli
@@ -16,6 +15,6 @@ Installed as global
 
 # commands
 
-* gulp : compile files
+* gulp : tslint + build ts files
 * gulp watch : watch files and auto compile when files changed
 
